@@ -37,15 +37,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.socicon-twitter:before { content: "\e040"; }
-.socicon-github:before { content: "\e030"; }
-.socicon-facebook:before { content: "\e041"; }
-.socicon-linkedin:before { content: "\e049"; }
-.socicon-medium:before { content: "\e06d"; }
-.socicon-youtube:before { content: "\e051"; }
-.socicon-pinterest:before { content: "\e043"; }
-.socicon-instagram:before { content: "\e057"; }
-
 
 * {
     margin: 0; 
