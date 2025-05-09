@@ -1,0 +1,8 @@
+title: Thought leadership specializing in DevOps, AI, Cloud, and Software Engineering
+description: Jason Shawn - Technology Leader in DevOps, AI, Cloud, and Software Engineering.
+url: "https://www.jasonshawn.info"
+baseurl: ""
+remote_theme: pages-themes/slate@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
