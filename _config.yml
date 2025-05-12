@@ -3,6 +3,7 @@ description: Jason Shawn - Technology Leader in DevOps, AI, Cloud, and Software 
 url: "https://www.jasonshawn.info"
 baseurl: ""
 remote_theme: pages-themes/slate@v0.2.0
-
+show_downloads: false
+google_analytics: G-NEHZJL6XDN
 plugins:
   - jekyll-remote-theme
