@@ -117,7 +117,7 @@ p {
 
 /* List styles */
 ul {
-    list-style: none;
+    list-style: disc;
     padding: 0;
     margin: 1rem 0;
     text-align: left;
@@ -144,9 +144,9 @@ a:hover {
 
 /* Section headings */
 h2 {
-    font-size: 12px;
+    font-size: 14px;
     color: #fff;
-    font-weight: normal;
+    font-weight: bold;
     line-height: 1.2;
     margin: 2rem 0 0.5rem 0;
     text-transform: uppercase;
