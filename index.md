@@ -5,13 +5,13 @@ title: Technology executive specializing in the DevOps, AI, Cloud, Site Reliabil
 
 ![Jason Shawn Avatar](/img/jason-arizona-bg.png)
 
-Jason Shawn is a technology executive with 25+ years of expertise in the DevOps, AI, Cloud, and software engineering domains. [Let's chat](https://calendly.com/jasonshawn/)
+Jason Shawn is a technology executive with 25+ years of expertise in the DevOps, AI, Cloud, and software engineering domains. You can find out more about me on [LinkedIn](https://www.linkedin.com/in/jasonshawn) or book some time on my [Calendar](https://calendly.com/jasonshawn/).
 
 ## About Me
-- DevOps, AI, and Cloud software engineering enthusiast
+- DevOps, AI, cloud, and software engineering enthusiast
 - Founder of indie music publication, Smother Magazine
 - Techno and experimental musician
-- Loves legos, travel, Analog synthesizers, and exploring culture
+- Legos, travel, Analog synthesizers, and exploring culture
 - Husband to one, father to two
 
 ## Links
