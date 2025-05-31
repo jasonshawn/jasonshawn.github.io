@@ -285,7 +285,6 @@ h1 {
 /* Discography styles */
 .discography img{
     padding: 10px;
-    object-fit: cover;
     border-radius: 0;  /* Override the border-radius from the general img style */
     margin: 0;         /* Override the margin from the general img style */
     border: none;      /* Override the border from the general img style */
@@ -293,6 +292,5 @@ h1 {
 
 /* Ensure the discography page content has the discography class */
 #main_content.discography {
-    max-width: 800px;
     margin: 0 auto;
 }
