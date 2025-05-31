@@ -283,10 +283,7 @@ h1 {
 }
 
 /* Discography styles */
-.discography img[alt*="kreisecho -"],
-.discography img[alt*="dRed -"] {
-    width: 200px;
-    height: 200px;
+.discography img{
     padding: 10px;
     object-fit: cover;
     border-radius: 0;  /* Override the border-radius from the general img style */
